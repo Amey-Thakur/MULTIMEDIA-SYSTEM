@@ -20,4 +20,4 @@
 
 ## Semester Exam
 
- - TCS Answersheet - [Q2](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/blob/main/Semester%20Exam/Q.2_MS.pdf) | [Q3](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/blob/main/Semester%20Exam/Q.3_MS.pdf)
+ - MS Answersheet - [Q2](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/blob/main/Semester%20Exam/Q.2_MS.pdf) | [Q3](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/blob/main/Semester%20Exam/Q.3_MS.pdf)
