@@ -4,7 +4,7 @@
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- - [x] **TCS - [Reference Books](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/tree/main/Reference%20Books)**
+ - [x] **MS - [Reference Books](https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM/tree/main/Reference%20Books)**
 
 ---
 
