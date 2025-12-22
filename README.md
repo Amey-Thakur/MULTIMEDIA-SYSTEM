@@ -91,19 +91,11 @@ This collection includes **comprehensive reference materials** covering all majo
 
 MS-specific quizzes conducted during the course:
 
-| Quiz | Topics | Marks |
-|:---:|:---|:---:|
-| Quiz 1 | Introduction, Text, Digital Image | - |
-| Quiz 2 | Digital Audio, Video, Compression | - |
-| Quiz 3 | Animation, Multimedia Networking | - |
-
-### Quiz Resources
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| Quiz 1 | MCQ Quiz 1 Submission | [📄 View](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-1.pdf) |
-| Quiz 2 | MCQ Quiz 2 Submission | [📄 View](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-2.pdf) |
-| Quiz 3 | MCQ Quiz 3 Submission | [📄 View](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-3.pdf) |
+| Quiz | Topics | Date | Marks |
+|:---|:---|:---:|:---:|
+| [Quiz 1](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-1.pdf) | Introduction, Text, Digital Image | July 11, 2020 | **10/10** |
+| [Quiz 2](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-2.pdf) | Digital Audio, Video, Compression | July 18, 2020 | **10/10** |
+| [Quiz 3](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-3.pdf) | Animation, Multimedia Networking | July 25, 2020 | **10/10** |
 
 ---
 
