@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Multimedia System (CSDLO5011) is a specialized Department Level Optional Course (DLOC) in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. The course explores the integration of multiple media types—text, graphics, audio, video, and animation—into single applications, focusing on the underlying technologies, compression algorithms, and system architectures.
+Multimedia System (CSDLO5011) is a specialized Department Level Optional Course (DLOC) in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. The course explores the integration of multiple media types, including text, graphics, audio, video, and animation, into single applications, focusing on the underlying technologies, compression algorithms, and system architectures.
 
 ### Course Topics
 
