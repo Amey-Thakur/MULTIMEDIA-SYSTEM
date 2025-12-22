@@ -124,8 +124,8 @@ Final semester examination submission:
 
 | Resource | Description | Date |
 |:---|:---|:---:|
-| 📝 [Question 2](Semester%20Exam/Q.2_MS.pdf) | MS Semester Exam Answer Sheet | - |
-| 📝 [Question 3](Semester%20Exam/Q.3_MS.pdf) | MS Semester Exam Answer Sheet | - |
+| 📝 [Question 2](Semester%20Exam/Q.2_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
+| 📝 [Question 3](Semester%20Exam/Q.3_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
 
 ---
 
