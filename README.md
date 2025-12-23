@@ -109,9 +109,9 @@ MS-specific quizzes conducted during the course:
 
 Online assessments conducted during the semester:
 
-| # | Resource | Description | Date | Marks |
-|:-:|:---|:---|:---:|:---:|
-| 1 | [**MS UT-2**](Online%20Exam/MS%20UT-2.png) | Unit Test 2 Assessment | 2020 | — |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**MS UT-2**](Online%20Exam/MS%20UT-2.png) | Unit Test 2 Assessment |
 
 ---
 
