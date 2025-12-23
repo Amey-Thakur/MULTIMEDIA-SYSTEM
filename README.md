@@ -87,7 +87,7 @@ This collection includes **comprehensive reference materials** covering all majo
 <!-- =========================================================================================
                                      QUIZZES SECTION
      ========================================================================================= -->
-## Quizzes
+### Quizzes
 
 MS-specific quizzes conducted during the course:
 
