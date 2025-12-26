@@ -93,9 +93,9 @@ MS-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Quiz 1**](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-1.pdf) | Introduction, Text, Digital Image | July 11, 2020 | **10/10** |
-| 2 | [**Quiz 2**](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-2.pdf) | Digital Audio, Video, Compression | July 18, 2020 | **10/10** |
-| 3 | [**Quiz 3**](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-3.pdf) | Animation, Multimedia Networking | July 25, 2020 | **10/10** |
+| 1 | [Quiz 1](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-1.pdf) | Introduction, Text, Digital Image | July 11, 2020 | 10/10 |
+| 2 | [Quiz 2](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-2.pdf) | Digital Audio, Video, Compression | July 18, 2020 | 10/10 |
+| 3 | [Quiz 3](Quizzes/Multimedia%20System%20(MS)%20-%20MCQ%20Quiz-3.pdf) | Animation, Multimedia Networking | July 25, 2020 | 10/10 |
 
 ---
 
@@ -111,7 +111,7 @@ Online assessments conducted during the semester:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**MS UT-2**](Online%20Exam/MS%20UT-2.png) | Unit Test 2 Assessment |
+| 1 | [MS UT-2](Online%20Exam/MS%20UT-2.png) | Unit Test 2 Assessment |
 
 ---
 
@@ -124,8 +124,8 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [**Question 2**](Semester%20Exam/Q.2_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
-| 2 | [**Question 3**](Semester%20Exam/Q.3_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
+| 1 | [Question 2](Semester%20Exam/Q.2_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
+| 2 | [Question 3](Semester%20Exam/Q.3_MS.pdf) | MS Semester Exam Answer Sheet | January 16, 2021 |
 
 ---
 
@@ -200,9 +200,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#multimedia-system)**
+  [↑ Back to Top](#multimedia-system)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
