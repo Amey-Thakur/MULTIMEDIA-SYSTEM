@@ -1,46 +1,43 @@
-# Auto detect text files and perform LF normalization
-* text=auto eol=lf
+# Multimedia System - Academic Repository
+# Professional .gitattributes for scholarly archiving
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+# Set default behavior to automatically normalize line endings
+* text=auto
 
-# Binary files
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
+*.pdf binary
 *.ico binary
 *.bmp binary
 *.tif binary
 *.tiff binary
 
-# Audio / Video
-*.mov binary
-*.mp4 binary
+# Audio Formats
 *.mp3 binary
+*.wav binary
+*.aac binary
+*.wma binary
+*.flac binary
+*.m4a binary
+
+# Video Formats
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.mkv binary
+*.wmv binary
 *.flv binary
 *.fla binary
 *.swf binary
-*.wav binary
-*.aac binary
-*.avi binary
-*.mkv binary
-*.wma binary
-*.wmv binary
 
-# Archives
-*.gz binary
-*.zip binary
-*.7z binary
-*.rar binary
-*.tar binary
-*.iso binary
+# Improve diff handling
+*.md text diff=markdown

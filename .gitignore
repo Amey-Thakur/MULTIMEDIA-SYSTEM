@@ -1,33 +1,29 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Multimedia System - Academic Repository
+# Specialized .gitignore for multimedia artifacts and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Media Production Artifacts (General)
-# Adobe peaks / caches
+# Media Production Artifacts (Caches, Peaks, and Metadata)
 *.pkf
 *.sfk
 *.reapeaks
 *.cfa
 *.pek
+*.log
 
 # Archives
 *.zip
@@ -35,5 +31,14 @@ $RECYCLE.BIN/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
