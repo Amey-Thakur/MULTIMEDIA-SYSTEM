@@ -52,7 +52,7 @@ As a computer engineer, understanding multimedia processing is essential for dev
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental multimedia concepts.
-- **Academic Documentation**: To authentically document my learning journey through MS.
+- **Academic Documentation**: To authentically document my learning journey through Multimedia System.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
