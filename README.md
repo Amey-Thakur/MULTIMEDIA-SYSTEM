@@ -136,6 +136,7 @@ Final semester examination submission:
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> **[Third and Fourth Year Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for MS.
 
 > [!IMPORTANT]
