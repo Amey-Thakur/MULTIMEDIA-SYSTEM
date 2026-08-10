@@ -71,7 +71,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [MS Techmax](Reference%20Books/MS%20Techmax.pdf) | Complete syllabus coverage |
+| 1 | [MMS Easy Solutions](Reference%20Books/MMS%20Easy%20Solutions.pdf) | Complete syllabus coverage with solved problems |
 | 2 | [Module 1: Introduction](Reference%20Books/Module-01-Introduction%20to%20Multimedia.pdf) | Fundamentals and Architecture |
 | 3 | [Module 2: Text & Image](Reference%20Books/Module-02-Text%20&%20Digital%20Image.pdf) | Encoding and Processing |
 | 4 | [Module 3: Digital Audio](Reference%20Books/Module-03-Digital%20Audio.pdf) | Digitization and PCM |
