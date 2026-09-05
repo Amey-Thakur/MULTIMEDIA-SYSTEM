@@ -1,0 +1,34 @@
+# Multimedia System
+
+> CSDLO5011: Multimedia System [MS] | TE Semester V | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course code: CSDLO5011
+Licence: CC BY 4.0, attribution required
+Repository created: 30 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Online Exam, 1 file
+- Quizzes, 3 files
+- Reference Books, 10 files
+- Semester Exam, 2 files
+- Syllabus, 2 files
+
+## Subject terms
+
+compression-algorithms, computer-engineering, computer-science,
+digital-audio, digital-video, engineering, huffman-coding,
+image-processing, multimedia, multimedia-networking, multimedia-systems,
+reference-books, textbooks, university-of-mumbai, virtual-reality
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MULTIMEDIA-SYSTEM
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
